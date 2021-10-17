@@ -1,0 +1,2 @@
+rootProject.name = "Fragment_Regita_03"
+include ':app'
